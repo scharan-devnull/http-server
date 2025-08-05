@@ -1,5 +1,2 @@
 # http-server
-An HTTP Server from scratch in C  (̿▀̿‿ ̿▀̿ ̿). 
-
-## Working
-
+An HTTP Server from scratch in C  (̿▀̿‿ ̿▀̿ ̿).
